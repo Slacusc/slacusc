@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Soledad Cortés</h1>
 <h3 align="center">A new frontend developer from Chile</h3>
 
-- 🔭 I’m currently working on **Social Network**
+- 🔭 I’m currently working on **Social Network**.
 
-- 🌱 I’m currently learning **Firebase, CSS, Javascript**
+- 🌱 I’m currently learning **Firebase, CSS, Javascript**.
 
-- 🤖 I wanna learn **React, Angular, Unity**
+- 🤖 I wanna learn **React, Angular, Unity**.
 
-- 👯 I’m looking to collaborate on **Videogames developers, IA researchers**
+- 👯 I’m looking to collaborate on **Videogames developers, IA researchers**.
 
-- 🤝 I’m looking for help with **CSS, HTML**
+- 🤝 I’m looking for help with **CSS, HTML**.
 
 - 👨‍💻 All of my projects are available at [www.github.com/Slacusc](www.github.com/Slacusc)
 
-- 💬 Ask me about **How to organize proyects, secuency diagrams**
+- 💬 Ask me about **How to organize proyects, secuency diagrams**.
 
-- 📫 How to reach me **solemich@gmail.com**
+- 📫 How to reach me **solemich@gmail.com**.
 
 - ⚡ You must know:  **I´m a science fiction writer, I love Mass Effect.**
 
