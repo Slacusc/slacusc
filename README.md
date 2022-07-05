@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soledad Cortés</h1>
+<h1 align="center">Hi human 👋, I'm Soledad Cortés 👽 </h1>
 <h3 align="center">A new frontend developer from Chile</h3>
 
 - 🔭 I’m currently working on **Social Network**.
@@ -7,7 +7,7 @@
 
 - 🤖 I wanna learn **React, Angular, Unity**.
 
-- 👯 I’m looking to collaborate on **Videogames developers, IA researchers**.
+- 👯 I’m looking to collaborate on **Any work that means collaborate and learn with another teamates, Videogames developers, IA researchers**.
 
 - 🤝 I’m looking for help with **CSS, HTML**.
 
