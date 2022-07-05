@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on: **Any work that means collaborate and learn with another teamates, Videogames developers, IA researchers**.
 
-- 🤝 I’m looking for help with: **CSS, HTML**.
+- 🤝 I’m looking for help with: **Javascript**.
 
 - 👨‍💻 All of my projects are available at: [www.github.com/Slacusc](www.github.com/Slacusc)
 
