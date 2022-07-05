@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **Social Network**
 
-- 🌱 I’m currently learning **Firebase, css, Javascript**
+- 🌱 I’m currently learning **Firebase, CSS, Javascript**
 
-- 👯 I’m looking to collaborate on **Game developer**
+- 🤖 I wanna learn **React, Angular, Unity*
+
+- 👯 I’m looking to collaborate on **Videogames developers, IA researchers**
 
 - 🤝 I’m looking for help with **CSS, HTML**
 
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **solemich@gmail.com**
 
-- ⚡ Fun fact **I´m a science fiction writer, i love Mass Effect.**
+- ⚡ You must know:  **I´m a science fiction writer, I love Mass Effect.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
