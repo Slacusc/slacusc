@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Game developer**
 
-- 🤝 I’m looking for help with **Everyone want´s to help**
+- 🤝 I’m looking for help with **CSS, HTML**
 
 - 👨‍💻 All of my projects are available at [www.github.com/Slacusc](www.github.com/Slacusc)
 
