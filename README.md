@@ -1,4 +1,4 @@
-<h1 align="center">Hi human 👋, I'm Soledad Cortés 👽 </h1>
+<h1 align="center">Hi Human 👋, I'm Soledad Cortés 👽 </h1>
 <h3 align="center">A new frontend developer from Chile</h3>
 
 - 🔭 I’m currently working on **Social Network**.
