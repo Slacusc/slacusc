@@ -15,8 +15,6 @@
 
 - 💬 Ask me about: **How to organize proyects, secuency diagrams, ,make a good coffee** ☕.
 
-- 📫 How to reach me: **solemich@gmail.com**.
-
 - ⚡ You must know about me:  **I´m a science fiction writer, I love Mass Effect.**
 
 <h3 align="left">Connect with me:</h3>
