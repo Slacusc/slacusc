@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/Slacusc](www.github.com/Slacusc)
 
-- 💬 Ask me about **How to organize proyects, secuency diagrams**.
+- 💬 Ask me about **How to organize proyects, secuency diagrams, ,make a good coffee☕ **.
 
 - 📫 How to reach me **solemich@gmail.com**.
 
