@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soledad cortés cerda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soledad cortés cerda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soledad-cort%C3%A9s-473a27228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soledad cortés cerda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
