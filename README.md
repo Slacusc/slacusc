@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Firebase, CSS, Javascript**.
 
-- 🤖 I wanna learn: **React, Angular, Unity**.
+- 🤖 I wanna learn: **React, Angular, Unity and Vue**.
 
 - 👯 I’m looking to collaborate on: **Any work that means collaborate and learn with another teamates, Videogames developers, IA researchers**.
 
