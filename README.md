@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with: **Javascript**.
 
-- 👨‍💻 All of my projects are available at: [www.github.com/Slacusc](www.github.com/Slacusc)
+- 👨‍💻 All of my projects are available at my repository.
 
 - 💬 Ask me about: **How to organize proyects, secuency diagrams, ,make a good coffee** ☕.
 
