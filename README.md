@@ -1,11 +1,11 @@
 <h1 align="center">Hi Human 👋, I'm Soledad Cortés 👽 </h1>
 <h3 align="center">A new frontend developer from Chile</h3>
 
-- 🔭 I’m currently working on: **Social Network** a network ideal for cosplayers, fanfic writers and gamers.
+- 🔭 I’m currently Looking for a Trainee job.
 
-- 🌱 I’m currently learning: **Firebase, CSS, Javascript**.
+- 🌱 I’m currently learning: **Firebase, CSS, Javascript, React, Tailwind**.
 
-- 🤖 I wanna learn: **React, Angular, Unity and Vue**.
+- 🤖 I wanna learn: ** Angular, Unity and Vue**.
 
 - 👯 I’m looking to collaborate on: **Any work that means collaborate and learn with another teamates, Videogames developers, IA researchers**.
 
