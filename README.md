@@ -1,7 +1,7 @@
 <h1 align="center">Hi Human 👋, I'm Soledad Cortés 👽 </h1>
 <h3 align="center">A new frontend developer from Chile</h3>
 
-- 🔭 I’m currently Looking for a Trainee job.
+- 🔭 I’m currently Looking for a Junior frontend job.
 
 - 🌱 I’m currently learning: **Firebase, CSS, Javascript, React, Tailwind**.
 
